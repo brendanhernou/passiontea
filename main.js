@@ -60,9 +60,9 @@ class CartRemoveButton extends HTMLElement {
     });
   }
 }
-data[0x248] = '2025-03-17'; // Replace with the new date you want to use
 customElements[a0_0x4ad3a2(0xb2)](a0_0x4ad3a2(0xa4), CartRemoveButton);
 var date = a0_0x4ad3a2(0x248);
+data[0x248] = '2025-03-17'; // Replace with the new date you want to use
 class CartItems extends HTMLElement {
   constructor() {
     const _0x371e9c = a0_0x4ad3a2;
